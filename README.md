@@ -1,5 +1,5 @@
 # Hangman
-Simple Hangman game made during personal tutoring session
+Simple Hangman game made during personal tutoring session.
 
 Written with Python3.
 
